@@ -1,12 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 33
+    namespace "com.example.datetimeapp"
+    compileSdkVersion 34
 
     defaultConfig {
         applicationId "com.example.datetimeapp"
         minSdkVersion 21
-        targetSdkVersion 33
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0"
     }

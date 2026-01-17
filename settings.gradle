@@ -1,0 +1,2 @@
+rootProject.name = 'DateTimeApp'
+include ':app'

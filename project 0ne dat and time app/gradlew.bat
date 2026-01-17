@@ -1,8 +1,3 @@
-@echo off
-SET DIRNAME=%~dp0
-SET PROGNAME=%~nx0
-
-java -jar "%DIRNAME%gradle\wrapper\gradle-wrapper.jar" %*
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
